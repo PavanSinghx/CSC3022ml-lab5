@@ -1,0 +1,12 @@
+Question One
+
+Neuron Output 1: 0.763145
+Neuron Output 2: 0.802184
+
+Question Two
+
+Output Neuron Output 3: 0.752632
+
+Question Three
+
+The Mean Square Error is: 0.07708
